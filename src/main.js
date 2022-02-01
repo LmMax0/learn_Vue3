@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import App from './02_父组件向子组件传值/App.vue'
+import App from './03_子组件传递父组件/App.vue'
 
 createApp(App).mount('#app')
